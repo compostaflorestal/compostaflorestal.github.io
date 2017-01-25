@@ -23,7 +23,7 @@ description: Página para divulgar o projeto Composta Florestal
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4164030D3"
+  Sobre: "Sobre"
   Como fazer: 
     - Composteira: "Composteira"
     - Compostagem: "blog "
