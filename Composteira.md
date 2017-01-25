@@ -16,7 +16,7 @@ As imagens fazem parte de arquivo pessoal do sr. Cleber Almeida e foram retirada
 O minhocário econômico e funcional tem custo total de cerca de R\$ 60,00.
 
 ![image alt text](https://rawgit.com/compostaflorestal/compostaflorestal.github.io/master/blog_posts/25-01-2017/Fotos/foto1.jpg)
-Foto: Arquivo pessoal/Cleber Almeida
+Foto: Arquivo pessoal / Cleber Almeida
 
 <p style="text-align: justify;">
 Ter uma composteira caseira é um ótimo jeito de reduzir a quantidade de lixo que iria para os aterros e também uma forma de mudar a relação das pessoas com o lixo que elas geram.
