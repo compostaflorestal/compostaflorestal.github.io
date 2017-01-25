@@ -31,7 +31,7 @@ navbar-links:
   #  - ShareLatex: "https://pt.sharelatex.com/login?redir=%2Fproject"
   #  - Dropbox: "https://www.dropbox.com"
   #  - Google Drive: "https://drive.google.com/drive/my-drive"
-  Participantes: 
+  Participantes: "Participantes" 
   Oficinas:
   Links: "Links"
   Contato: "contato"
