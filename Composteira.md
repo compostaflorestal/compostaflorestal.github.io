@@ -16,6 +16,7 @@ As imagens fazem parte de arquivo pessoal do sr. Cleber Almeida e foram retirada
 O minhocário econômico e funcional tem custo total de cerca de R\$ 60,00.
 
 ![image alt text](https://rawgit.com/compostaflorestal/compostaflorestal.github.io/master/blog_posts/25-01-2017/Fotos/foto1.jpg)
+
 Fotos: Arquivo pessoal / Cleber Almeida
 
 <p style="text-align: justify;">
