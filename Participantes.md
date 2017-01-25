@@ -16,12 +16,12 @@ Idealizador do projeto em Florestal, inspirado pelo projeto Composta São Paulo.
 **E-mail:** <compostaflorestal@gmail.com>
 
 **Site:** <http://compostaflorestal.github.io/>
-<p style="text-align: center;">
+
 **Video:** <https://www.youtube.com/watch?v=7fF4FHrW1ik>
-</p>
+
 
 **Teste:** 
-<p style="text-align: center;">
+
 [![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
-</p>
+
 
