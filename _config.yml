@@ -25,8 +25,8 @@ description: Página para divulgar o projeto Composta Florestal
 navbar-links:
   Sobre: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4164030D3"
   Como fazer: 
-    - Composteira: "blog"
-    - Compostagem: " "
+    - Composteira: "Composteira"
+    - Compostagem: "blog "
   #Recursos:
   #  - ShareLatex: "https://pt.sharelatex.com/login?redir=%2Fproject"
   #  - Dropbox: "https://www.dropbox.com"
