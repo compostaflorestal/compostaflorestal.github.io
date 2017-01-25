@@ -49,24 +49,18 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Fernando Bastos
-  email: "fsbmat@gmail.com"
-  facebook: fsbmat  # eg. daattali
-  github: fsbmat    # eg. daattali
-  twitter: fsbmat   # eg. daattali
-  linkedin: fsbmat  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  instagram: yourname # eg. daattali
-  youtube: fsbmat # eg. user/daattali or channel/daattali
+  email: "compostaflorestal@gmail.com"
+  facebook: compostaflorestal  # eg. daattali
+  github: compostaflorestal    # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   instagram: false
@@ -74,19 +68,19 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Minha página pessoal"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "A Favor do Meio Ambiente!"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "fsbmat"
+disqus: "compostaflorestal"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
