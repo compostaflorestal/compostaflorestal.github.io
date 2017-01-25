@@ -11,17 +11,17 @@ subtitle: Pessoas que participam do projeto e fazem uma cidade melhor!
 <p style="text-align: justify;">
 Idealizador do projeto em Florestal, inspirado pelo projeto Composta São Paulo. Acredita que Florestal pode ser uma cidade melhor a partir de projetos como esse!
 </p>
-**Endereço:** Florestal - Minas Gerais - Brasil
+#**Endereço:** Florestal - Minas Gerais - Brasil
 
-**E-mail:** <compostaflorestal@gmail.com>
+#**E-mail:** <compostaflorestal@gmail.com>
 
-**Site:** <http://compostaflorestal.github.io/>
+#**Site:** <http://compostaflorestal.github.io/>
 
-**Video:** <https://www.youtube.com/watch?v=7fF4FHrW1ik>
+#**Video:** <https://www.youtube.com/watch?v=7fF4FHrW1ik>
 
 
-**Teste:** 
+#**Teste:** 
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+#[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole#/master/ressources/WebMole_Youtube_Video.png)](http://y#outu.be/vt5fpE0bzSY)
 
 
