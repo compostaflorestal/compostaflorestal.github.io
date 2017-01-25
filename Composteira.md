@@ -16,6 +16,7 @@ As imagens fazem parte de arquivo pessoal do sr. Cleber Almeida e foram retirada
 O minhocário econômico e funcional tem custo total de cerca de R\$ 60,00.
 
 ![image alt text](https://rawgit.com/compostaflorestal/compostaflorestal.github.io/master/blog_posts/25-01-2017/Fotos/foto1.jpg)
+
 A composteira caseira é formada por três baldes de plásticos empilhadas. | Foto: Arquivo pessoal/Cleber Almeida
 <p style="text-align: justify;">
 Ter uma composteira caseira é um ótimo jeito de reduzir a quantidade de lixo que iria para os aterros e também uma forma de mudar a relação das pessoas com o lixo que elas geram.
@@ -35,7 +36,6 @@ O primeiro passo para começar a trabalhar na composteira foi lavar os baldes pa
 </p>
 
 ![image alt text](https://rawgit.com/compostaflorestal/compostaflorestal.github.io/master/blog_posts/25-01-2017/Fotos/foto3.jpg)
-
 Fotos: Arquivo pessoal / Cleber Almeida
 
 <p style="text-align: justify;">
@@ -72,6 +72,7 @@ A composteira pronta com três andares deve ficar assim. Caso produza mais resí
 
 ![image alt text](https://rawgit.com/compostaflorestal/compostaflorestal.github.io/master/blog_posts/25-01-2017/Fotos/foto8.jpg)
 Fotos: Arquivo pessoal / Cleber Almeida
+
 Cleber Almeida se inspirou no tutorial abaixo para fazer sua composteira:
 
 [![ScreenShot](http://img.youtube.com/vi/EG1VUS2mEZQ/0.jpg)](https://www.youtube.com/watch?v=EG1VUS2mEZQ)
