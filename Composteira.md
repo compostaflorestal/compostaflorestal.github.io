@@ -9,7 +9,7 @@ subtitle: Como fazer sua composteira!
 [![ScreenShot](http://img.youtube.com/vi/O7lpOWtPKHQ/0.jpg)](https://www.youtube.com/watch?v=O7lpOWtPKHQ)
 
 <p style="text-align: justify;">
-As imagens fazem parte de arquivo pessoal do sr. Cleber Almeida e foram retiradas, juntamente com o texto da página [CicloVivo]<http://ciclovivo.com.br/noticia/aprenda-a-fazer-uma-composteira-caseira-reutilizando-baldes-de-margarina/>.
+As imagens fazem parte de arquivo pessoal do sr. Cleber Almeida e foram retiradas, juntamente com o texto da página [CicloVivo](http://ciclovivo.com.br/noticia/aprenda-a-fazer-uma-composteira-caseira-reutilizando-baldes-de-margarina/).
 </p>
 **Aprenda a fazer uma composteira caseira reutilizando baldes de margarina**
 
