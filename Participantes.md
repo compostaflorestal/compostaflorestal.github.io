@@ -1,3 +1,9 @@
+---
+layout: page
+title: Participantes
+subtitle: Pessoas que participam do projeto e fazem uma cidade melhor!
+---
+
 **Endereço:** Florestal - Minas Gerais - Brasil
 
 **E-mail:** <compostaflorestal@gmail.com>
