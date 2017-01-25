@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Meus interesses compartilhados!
+subtitle: Em Favor do Meio Ambiente!
 ---
 
 ***
