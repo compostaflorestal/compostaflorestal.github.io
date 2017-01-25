@@ -19,4 +19,4 @@ subtitle: Pessoas que participam do projeto e fazem uma cidade melhor!
 
 **Fernando Bastos:**
 
-![image alt text](http//example.io/link-to-image)
+![image alt text](https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/11036593_844668855601051_635580023874005634_n.jpg?oh=79119c12717f137431e2b25615246698&oe=5913A295)
