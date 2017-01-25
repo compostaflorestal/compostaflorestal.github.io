@@ -6,7 +6,7 @@ subtitle: Meus contatos
 
 **Endereço:** Florestal - Minas Gerais - Brasil 
 
-**E-mail:** <fsbmat@gmail.com> 
+**E-mail:** <compostaflorestal@gmail.com> 
 
-**Site:** <http://fsbmat.github.io/>
+**Site:** <http://compostaflorestal.github.io/>
 
