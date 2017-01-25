@@ -27,7 +27,7 @@ Para você que quer ter a sua própria composteira, o CicloVivo separou um passo
 </p>
 
 ![image alt text](https://rawgit.com/compostaflorestal/compostaflorestal.github.io/master/blog_posts/25-01-2017/Fotos/foto2.jpg)
-Foto: Arquivo pessoal / Cleber Almeida
+Fotos: Arquivo pessoal / Cleber Almeida
 
 <p style="text-align: justify;">
 O policial, nascido no Paraná, começou a fazer compostagem e a cultivar uma horta para aliviar o estresse do seu trabalho, também encomendou minhocas californianas, a espécie ideal para fazer compostagem. O custo das minhocas, com frete, foi de R\$45,00. O minhocário econômico e funcional teve custo total de R\$ 60,00.
