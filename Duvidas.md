@@ -204,7 +204,7 @@ Nos aterros sanitários, esse líquido é misturado com os diversos resíduos e 
 Normalmente, a primeira colheita de composto líquido pela torneira acontece um mês após o início do uso da composteira. Após essa primeira retirada do composto líquido, as próximas colheitas do líquido passam a ser quinzenais ou semanais, de acordo com o fluxo e características dos alimentos colocados na composteira.
 Para possibilitar a retirada do composto líquido pela torneira a composteira deve estar apoiada em algum suporte que eleve a altura da Caixa Coletora. Podem ser tijolos, madeira, algum degrau, 4 pedaços de cano PVC (75mm) em pé, latas, etc.
 Para facilitar a retirada do composto líquido, sugerimos colocar um calço embaixo da extremidade oposta à torneira. O calço facilitará a drenagem do líquido que se concentrará na extremidade em que a torneira está localizada.
-<p style="text-align: justify;">
+</p>
 **Como utilizo o composto líquido?**
 <p style="text-align: justify;">
 O composto líquido é um excelente adubo! Seus nutrientes são rapidamente absorvidos pelas plantas. Por ser um líquido concentrado, sugerimos que ele seja diluído na proporção de 1/5 à 1/10 para ser utilizado na rega das plantas, ou borrifado nas folhas. Sugerimos regar a mesma planta com esse fertilizante a um intervalo de pelo menos 1 semana.
