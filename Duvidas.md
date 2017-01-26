@@ -7,32 +7,32 @@ title: "Dúvidas"
 
 **Qualquer pessoa pode participar do projeto?**
 <p style="text-align: justify;">
-Sim. Para participar da seleção do projeto, o Questionário de Cadastro deve ser preenchido até o dia xx de xxx de 2017. Para se inscrever, basta clicar no menu Faça Parte e depois no link Participe e preencher o Questionário de Cadastro. Das xxx famílias que serão selecionadas para participar do projeto, uma parte será convidada diretamente por ações realizadas em escolas, condomínios e comunidades (que denominamos Centro de Apoios) e a outra parte será composta por inscrições espontâneas.
+Sim. Para participar da seleção do projeto, o Questionário de Cadastro deve ser preenchido até o dia xx de xxx de 2017. Para se inscrever, basta clicar no menu Questionários e depois no link relacionado ao questionário 1 e preencher o Questionário de Cadastro. Das xxx famílias que serão selecionadas para participar do projeto, uma parte será convidada diretamente por ações realizadas em escolas, condomínios e comunidades e a outra parte será composta por inscrições espontâneas.
 </p>
-**O projeto visa atender apenas as 2.000 famílias selecionadas?**
+**O projeto visa atender apenas as xxx famílias selecionadas?**
 
 Os objetivos maiores do projeto são: 
 
     1- desenvolver metodologias e estratégias de replicabilidade;
-    2- levantar informações pertinentes à construção de uma política pública que estimule a prática da compostagem doméstica na cidade de São Paulo;
+    2- levantar informações pertinentes à construção de uma política pública que estimule a prática da compostagem doméstica na cidade de Florestal;
     3- criar um movimento social por uma cidade mais sustentável.
 <p style="text-align: justify;">
-Trabalheremos diretamente com 2.000 famílias durante 4 meses, período em que realizaremos 3 atividades presenciais (entrega das composteiras + oficina de compostagem, oficina de retirada do abubo + plantios urbanos e encontro de encerramento + partilha e troca de experiências) e também realizaremos 3 pesquisas (hábitos comportamentais antes de receber a composteira, dificuladades relacionadas à compostagem + envolvimento com o projeto e hábitos comportamentais após 3 meses de compostagem doméstica).
+Trabalheremos diretamente com xxx famílias durante 4 meses, período em que realizaremos 3 atividades presenciais (entrega das composteiras + oficina de compostagem, oficina de retirada do abubo + plantios urbanos e encontro de encerramento + partilha e troca de experiências) e também realizaremos 3 pesquisas (hábitos comportamentais antes de receber a composteira, dificuladades relacionadas à compostagem + envolvimento com o projeto e hábitos comportamentais após 3 meses de compostagem doméstica).
 </p>
 <p style="text-align: justify;">
-Além de trabalhar diretamente com as 2.000 famílias selecionadas, o projeto e movimento Composta São Paulo visa popularizar o termo compostagem e a prática da compostagem doméstica na cidade de São Paulo. Para auxiliar esse processo, mobilizamos uma página aberta no Facebook (Composta São Paulo) para o compartilhamento de informações e umgrupo também no Facebook (Comunidade Composta São Paulo) para criarmos juntos uma plataforma on line para esclarecimentos de dúvidas, trocas de experiências,compartilhamento de informações sobre compostagem e sustentabilidade, e também mobilizações pontuais para disseminar, multiplicar e fortalecer a prática da compostagem como tratamento econômico e ecológico dos resíduos orgânicos produzidos na cidade;
+Além de trabalhar diretamente com as xxxx famílias selecionadas, o projeto e movimento Composta Florestal visa popularizar o termo compostagem e a prática da compostagem doméstica na cidade de Florestal. Para auxiliar esse processo, mobilizamos uma página aberta no Facebook (Composta Florestal) para o compartilhamento de informações e para criarmos juntos uma plataforma on line para esclarecimentos de dúvidas, trocas de experiências,compartilhamento de informações sobre compostagem e sustentabilidade, e também mobilizações pontuais para disseminar, multiplicar e fortalecer a prática da compostagem como tratamento econômico e ecológico dos resíduos orgânicos produzidos na cidade;
 </p>
 **Como esclarecer dúvidas sobre a composteira/compostagem doméstica?**
 <p style="text-align: justify;">
-Assim com as dúvidas sobre o projeto, elaboramos também uma seção com as principais dúvidas sobre a composteira doméstica (colocar link). Você também pode compartilhar suas dúvidas e trocar experiências no grupo do Facebook Comunidade Composta São Paulo.
+Assim com as dúvidas sobre o projeto, elaboramos também uma seção com as principais dúvidas sobre a composteira doméstica. Você também pode compartilhar suas dúvidas e trocar experiências no grupo do Facebook Composta Florestal.
 </p>
 **Onde posso aprender mais sobre compostagem?**
 <p style="text-align: justify;">
-Participe do grupo Comunidade Composta São Paulo no Facebook, este é o canal do projeto mais adequado para esclarecer dúvidas, compartilhar experiências e contribuir para o fortalecimento do movimento.
+Participe do grupo Composta Florestal no Facebook, este é o canal do projeto mais adequado para esclarecer dúvidas, compartilhar experiências e contribuir para o fortalecimento do movimento.
 </p>
 **Como entrar em contato com os responsáveis pelo projeto?**
 <p style="text-align: justify;">
-Envie um email para contato@compostasaopaulo.eco.br ou preencha o formulário de contato desse site. Para casos de urgências, ligue para o telefone 11 – 2503 0036 e escolha a opção Compostagem Empresarial, Projetos e Parcerias.
+Envie um email para compostaflorestal@gmail.com. Para casos de urgências, ligue para o telefone xxxxxx.
 </p>
 **Quem vai me ensinar a usar a composteira?**
 <p style="text-align: justify;">
@@ -61,8 +61,8 @@ Para a participação do projeto, solicitamos os seguintes compromissos:
 
 **Quando termina o projeto?**
 <p style="text-align: justify;">
-O terceiro questionário de pesquisa será realizado em novembro de 2014. 
-No final de dezembro de 2014 apresentaremos os resultados das pesquisas.
+O terceiro questionário de pesquisa será realizado em xxx de 2017. 
+No final de xxx de 2017 apresentaremos os resultados das pesquisas.
 </p>
 **Vamos ficar com a composteira depois do termino do projeto?**
 <p style="text-align: justify;">
@@ -80,10 +80,9 @@ Recomendamos que o questionário fosse preenchido pela pessoa da família que se
 
 # Sobre Compostagem
 
-
 **O que é a Composteira Doméstica?**
 <p style="text-align: justify;">
-A Composteira Doméstica (ou Minhocário Doméstico) da Morada da Floresta é um sistema de reciclagem dos resíduos orgânicos em caixas plásticas modulares onde minhocas e microorganismos transformam restos de alimentos em adubo de excelente qualidade. É um sistema prático, compacto, higiênico e de fácil manuseio que não produz cheiro nem atrai insetos nem animais indesejados.
+A Composteira Doméstica (ou Minhocário Doméstico) do projeto Composta Florestal é um sistema de reciclagem dos resíduos orgânicos em baldes doados de manteiga de 15l onde minhocas e microorganismos transformam restos de alimentos em adubo de excelente qualidade. É um sistema prático, compacto, higiênico e de fácil manuseio que não produz cheiro nem atrai insetos nem animais indesejados.
 </p>
 
 **Qual é a diferença entre Composteira Doméstica e Minhocário Doméstico?**
@@ -93,10 +92,10 @@ Nenhuma. Chamamos o mesmo produto pelos 2 nomes. Ele é uma composteira porque c
 
 **Como as Composteiras Domésticas funcionam?**
 <p style="text-align: justify;">
-As Composteiras Domésticas do projeto Composta São Paulo funcionam com 3caixas de plásticos modulares empilhadas nas quais as que ficam em cima digerem (compostam) os resíduos orgânicos (Caixas Digestoras) e a que fica em baixo (Caixa Coletora) recolhe o composto líquido que escorre das Caixas Digestoras. As Caixas Digestoras são furadas no fundo para facilitar o fluxo das minhocas e do composto líquido, e também furadas nas laterais para aumentar a oxigenação do sistema. A Caixa Coletora possui uma torneira para facilitar a retirada do composto líquido. 
+As Composteiras Domésticas do projeto Composta Florestal funcionam com 3 baldes de plásticos empilhadas nas quais as que ficam em cima digerem (compostam) os resíduos orgânicos (Baldes Digestores) e a que fica em baixo (Balde Coletor) recolhe o composto líquido que escorre dos Baldes Digestores. Os Baldes Digestores são furados no fundo para facilitar o fluxo das minhocas e do composto líquido, e também furados nas laterais para aumentar a oxigenação do sistema. O Balde Coletor possui uma torneira para facilitar a retirada do composto líquido. 
 </p>
 <p style="text-align: justify;">
-Os resíduos orgânicos são colocados na Caixa Digestora superior. Quando esta é completamente preenchida, ela deve ser trocada de posição com a Caixa Digestora que está no meio. Após esse manejo, o húmus e composto presentes na caixa que ficou em cima das demais devem ser retirados para abrir espaço para a inserção dos novos resíduos orgânicos
+Os resíduos orgânicos são colocados no Balde Digestor superior. Quando este é completamente preenchido, ele deve ser trocada de posição com o Balde Digestor que está no meio. Após esse manejo, o húmus e composto presentes no balde que ficou em cima dos demais devem ser retirados para abrir espaço para a inserção dos novos resíduos orgânicos
 </p>
 **Qual é o local mais adequado para colocar a minha composteira?**
 <p style="text-align: justify;">
@@ -104,7 +103,7 @@ A composteira deve ficar em local arejado, protegido do sol e da chuva. O calor 
 </p>
 **A Composteira Doméstica produz odor?**
 <p style="text-align: justify;">
-Estando em um local que tenha circulação de ar, a Composteiras Doméstica do projeto Composta São Paulo não produz odor perceptível.No dia a dia, se por acaso você perceber algum odor desagrável, provavelmente aconteceu alguma coisa errada. Para evitar inconvenientes, basta seguir as instruções e recomendações presentes no Manual. As principais recomendações são: colocar apenas o que é sugerido, sempre misturar e cobrir os alimentos com matéria vegetal seca e retirar o composto líquido regularmente. No momento da retirada do húmus, é normal sentir o sentir o cheiro do composto.
+Estando em um local que tenha circulação de ar, as Composteiras Doméstica do projeto Composta Florestal não produz odor perceptível.No dia a dia, se por acaso você perceber algum odor desagrável, provavelmente aconteceu alguma coisa errada. Para evitar inconvenientes, basta seguir as instruções e recomendações presentes no Manual de Compostagem. As principais recomendações são: colocar apenas o que é sugerido, sempre misturar e cobrir os alimentos com matéria vegetal seca e retirar o composto líquido regularmente. No momento da retirada do húmus, é normal sentir o sentir o cheiro do composto.
 </p>
 **Qual a vantagem do sistema com minhocas para o sistema de compostagem sem as minhocas?**
 <p style="text-align: justify;">
@@ -113,8 +112,9 @@ Além de produzirem o húmus, que é mais rico em nutrientes que o composto norm
 
 **Onde e como devo colocar os resíduos orgânicos na Composteira Doméstica?**
 <p style="text-align: justify;">
-Os resíduos orgânicos devem ser colocados na Caixa Digestora que está em cima. Para aproveitar melhor o espaço e otimizar as matérias secas, acomode os resíduos orgânicos sem espalhar pela caixa. Sempre misture e cubra os resíduos orgânicos completamentecom Matéria Vegetal Seca (serragens grossas, folhas, palhas ou grama). Esse procedimento evitará a incidências de larvas e mosquitos.
-Obs: Para facilitar o manuseio, sugerimos que se tenha um recipiente com perto da composteira para armazenar a Matéria Vegetal Seca. Se por algum motivo essa Matéria Vegetal Seca acabar, sugerimos não colocar os resíduos orgânicos na composteira até que o estoque de Matéria Vegetal Seca seja reposto.
+Os resíduos orgânicos devem ser colocados no Balde Digestor que está em cima. Para aproveitar melhor o espaço e otimizar as matérias secas, acomode os resíduos orgânicos sem espalhar pela caixa. Sempre misture e cubra os resíduos orgânicos completamente com Matéria Vegetal Seca (serragens grossas, folhas, palhas ou grama). Esse procedimento evitará a incidências de larvas e mosquitos.
+
+*Obs:* Para facilitar o manuseio, sugerimos que se tenha um recipiente perto da composteira para armazenar a Matéria Vegetal Seca. Se por algum motivo essa Matéria Vegetal Seca acabar, sugerimos não colocar os resíduos orgânicos na composteira até que o estoque de Matéria Vegetal Seca seja reposto.
 </p>
 **O que PODE ser colocado na Composteira Doméstica?**
 
@@ -131,7 +131,7 @@ O QUE PODE (colocar à vontade):
 MODERADAMENTE (evitar colocar em quantidade)
 
 - Frutas cítricas
--Alimentos cozidos
+- Alimentos cozidos
 - Laticínios
 - Flores e ervas medicinais ou aromáticas
 - Guardanapos e papel toalha
@@ -153,9 +153,7 @@ O QUE NÃO PODE (não colocar na composteira)
 Os resíduos orgânicos devem ser cobertos com Matéria Vegetal Seca (serragens grossas, folhas, palhas ou grama). Sempre misture e cubra os resíduos orgânicos completamente, esse procedimento evitará a incidências de larvas e mosquitos.
 O melhor tipo de serragem para este fim são as serragens grossas, provenientes de madeira bruta (madeireiras). Atenção para não pegar serragem de madeiras tratadas (verniz, tinta, etc), nem de compensados, aglomerados e fórmicas devido às colas e químicos presentes nesse tipo de material. Para as folhas secas, elas devem estar bem secas e quebradiças. Sugerimos quebrá-las antes de colocá-las na composteira. Também deve-se observar se não há pragas, como larvas e pequenos insetos, que podem contaminar a composteira.
 </p>
-<p style="text-align: justify;">
-Obs: Para facilitar o manuseio, sugerimos que se tenha um recipiente com perto da composteira para armazenar a Matéria Vegetal Seca. Se por algum motivo essa Matéria Vegetal Seca acabar, sugerimos não colocar os resíduos orgânicos na composteira até que o estoque de Matéria Vegetal Seca seja reposto.
-</p>
+
 **Em quanto tempo devo encher uma Caixa Digestora e com qual frequência devem seer feitas as trocas das mesmas?**
 <p style="text-align: justify;">
 A Composteira Doméstica é dimensionada para compostar uma caixa de resíduos orgânicos por mês. Desta forma, evite encher a caixa em menos de um mês. Se você demorar mais de 1 mês para encher uma Caixa Digestora, melhor; mais tempo as minhocas terão para transformar seus resíduos em húmus. Para as minhocas digerirem os resíduos orgânicos em menos tempo, pique-os ou triture-os antes de colocá-los nas caixas. Havendo alimentos nas caixas, as minhocas conseguem sobreviver até 3 meses sem a inserção de novos alimentos.
@@ -180,13 +178,13 @@ Faça o que você achar mais adequado, simples e adaptável à sua rotina:
 a) Após a troca das Caixas Digestoras,puxe o composto da caixa que acabou de subir (com húmus) para um dos lados. Mantenha uma camada de húmus de aproximadamente 7cm no fundo da caixa. Ao fazer isso, você abrirá um espaço de aproximadamente 1/3 a 1/2 da caixa. Durante os próximos dias, coloque os resíduos novos nesse lado vazio que você acabou de abrir. SEMPRE MISTURE E CUBRA OS RESÍDUOS ORGÂNICOS COMPLETAMENTE COM MATÉRIA VEGETAL SECA (serragem grossa, folhas, palhas, serragem, papel ou grama). Provavelmente você levará alguns dias para ocupar esse espaço, tempo suficiente para a maioria das minhocas migrar do húmus para os alimentos mais frescos presentes na mesma caixa e/ou na caixa que está embaixo desta. Ao preencher o espaço vazio da caixa com os alimentos novos, será o momento de coletar o húmus, que estará mais seco e com menos minhocas que no dia em que as caixas foram trocadas de posição.
 </p>
 <p style="text-align: justify;">
-Após a troca das Caixas Digestoras, coloque a caixa que acabou de subir (com húmus) aberta no sol. Devido à claridade, as minhocas mergulharão para o fundo da caixa., facilitando a retirada do húmus. Retirar aos poucos a camada de cima raspando a camada superior do húmus com uma pazinha de jardinagem (ou qualquer outra ferramenta ou instrumento que você achar mais adequado) até o ponto em que a concentração de minhocas estiver alta. Nesse momento pare de mexer para não machucar as minhocas, e deixe a caixa novamente no sol para as minhocas mergulharem mais um pouco. Enquanto isso, coloque o húmus que você acabou de raspar em outro local e separe as minhocas que você encontrar durante esse processo em um recipiente qualquer. Repita esse procedimento até restar uma camada de aproximadamente 5cm no fundo da caixa. Se essa camada estiver muito compactada, sugerimos revirar essa camada para deixá-la mais fofa, com cuidado para não machucar as minhocas.
+b) Após a troca das Caixas Digestoras, coloque a caixa que acabou de subir (com húmus) aberta no sol. Devido à claridade, as minhocas mergulharão para o fundo da caixa., facilitando a retirada do húmus. Retirar aos poucos a camada de cima raspando a camada superior do húmus com uma pazinha de jardinagem (ou qualquer outra ferramenta ou instrumento que você achar mais adequado) até o ponto em que a concentração de minhocas estiver alta. Nesse momento pare de mexer para não machucar as minhocas, e deixe a caixa novamente no sol para as minhocas mergulharem mais um pouco. Enquanto isso, coloque o húmus que você acabou de raspar em outro local e separe as minhocas que você encontrar durante esse processo em um recipiente qualquer. Repita esse procedimento até restar uma camada de aproximadamente 5cm no fundo da caixa. Se essa camada estiver muito compactada, sugerimos revirar essa camada para deixá-la mais fofa, com cuidado para não machucar as minhocas.
 </p>
 <p style="text-align: justify;">
-Obs 1: nas primeiras retiradas de húmus, sugerimos devolver as minhocas para o sistema para acelerar a reprodução e multiplicação das mesmas. Depois de alguns meses isso não será mais necessário.
+*Obs 1:* nas primeiras retiradas de húmus, sugerimos devolver as minhocas para o sistema para acelerar a reprodução e multiplicação das mesmas. Depois de alguns meses isso não será mais necessário.
 </p>
 <p style="text-align: justify;">
-Obs 2: Como o composto estará úmido, caso deseje que ele fique mais agradável ao manuseio, deixe-o secar por algumas horas ao sol, ou por alguns dias na sombra antes de utilizá-lo.
+*Obs 2:* Como o composto estará úmido, caso deseje que ele fique mais agradável ao manuseio, deixe-o secar por algumas horas ao sol, ou por alguns dias na sombra antes de utilizá-lo.
 </p>
 **É possível fazer o manejo sozinho?**
 <p style="text-align: justify;">
@@ -204,7 +202,7 @@ Nos aterros sanitários, esse líquido é misturado com os diversos resíduos e 
 **Qual é o tempo necessário para a produção do composto líquido? Com qual freqüência devo coletá-lo?**
 <p style="text-align: justify;">
 Normalmente, a primeira colheita de composto líquido pela torneira acontece um mês após o início do uso da composteira. Após essa primeira retirada do composto líquido, as próximas colheitas do líquido passam a ser quinzenais ou semanais, de acordo com o fluxo e características dos alimentos colocados na composteira.
-Para possibilitar a retirada do composto líquido pela torneira a composteira deve estar apoiada em algum suporte que eleve a altura da Caixa Coletora Podem ser tijolos, madeira, algum degrau, 4 pedaços de cano PVC (75mm) em pé, latas, etc.
+Para possibilitar a retirada do composto líquido pela torneira a composteira deve estar apoiada em algum suporte que eleve a altura da Caixa Coletora. Podem ser tijolos, madeira, algum degrau, 4 pedaços de cano PVC (75mm) em pé, latas, etc.
 Para facilitar a retirada do composto líquido, sugerimos colocar um calço embaixo da extremidade oposta à torneira. O calço facilitará a drenagem do líquido que se concentrará na extremidade em que a torneira está localizada.
 <p style="text-align: justify;">
 **Como utilizo o composto líquido?**
@@ -225,7 +223,7 @@ Não há necessidade de usar luvas para manusear a composteira. No momento da re
 </p>
 **Além das minhocas, há outras espécies na composteira?**
 <p style="text-align: justify;">
-No sistema há vários agentes decompositores que convivem junto às minhocas. O processo é vivo e dinâmico! Vários insetos também habitam a composteira e auxiliam no processo da compostagem.Eles também são agentes decompositores e auxiliam no processo da compostagem dos alimentos.Destes insetos benéficos, pode-se encontrar joaninhas, pequenos besouros, tatu-bola, um insetinho branco muito pequenininho, etc.Mesmo bolores e fungos, se por acaso aparecer, não há porque se preocupar. Eles também ajudam ajudam na decomposição dos alimentos.
+No sistema há vários agentes decompositores que convivem junto às minhocas. O processo é vivo e dinâmico! Vários insetos também habitam a composteira e auxiliam no processo da compostagem. Eles também são agentes decompositores e auxiliam no processo da compostagem dos alimentos. Destes insetos benéficos, pode-se encontrar joaninhas, pequenos besouros, tatu-bola, um insetinho branco muito pequenininho, etc. Mesmo bolores e fungos, se por acaso aparecer, não há porque se preocupar. Eles também ajudam ajudam na decomposição dos alimentos.
 </p>
 **A composteira atrai algum tipo de animal indesejado?**
 
