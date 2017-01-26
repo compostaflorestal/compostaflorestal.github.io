@@ -28,5 +28,5 @@ Etapas do projeto:
     7 - No sexto mês faremos a divulgação dos resultados do projeto;
 </p>    
 <p style="text-align: justify;">
-    8 - Esperamos como resultado do projeto que consigamos estimar a quantidade de resíduos que deixaram de ser descartados no aterro de Florestal e também estimar o quanto o munícipio pode economizar com a manutenção e crescimento deste projeto!
+Esperamos como resultado do projeto que consigamos estimar a quantidade de resíduos que deixaram de ser descartados no aterro de Florestal e também estimar o quanto o munícipio pode economizar com a manutenção e crescimento deste projeto!
 </p>
