@@ -3,7 +3,7 @@ layout: page
 title: "Dúvidas"
 ---
 
-##Sobre o Projeto
+# Sobre o Projeto
 
 **Qualquer pessoa pode participar do projeto?**
 <p style="text-align: justify;">
@@ -78,7 +78,7 @@ Recomendamos que o questionário fosse preenchido pela pessoa da família que se
 </p>
 
 
-##Sobre Compostagem
+# Sobre Compostagem
 
 
 **O que é a Composteira Doméstica?**
