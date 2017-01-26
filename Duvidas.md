@@ -181,12 +181,12 @@ a) Após a troca das Caixas Digestoras,puxe o composto da caixa que acabou de su
 b) Após a troca das Caixas Digestoras, coloque a caixa que acabou de subir (com húmus) aberta no sol. Devido à claridade, as minhocas mergulharão para o fundo da caixa., facilitando a retirada do húmus. Retirar aos poucos a camada de cima raspando a camada superior do húmus com uma pazinha de jardinagem (ou qualquer outra ferramenta ou instrumento que você achar mais adequado) até o ponto em que a concentração de minhocas estiver alta. Nesse momento pare de mexer para não machucar as minhocas, e deixe a caixa novamente no sol para as minhocas mergulharem mais um pouco. Enquanto isso, coloque o húmus que você acabou de raspar em outro local e separe as minhocas que você encontrar durante esse processo em um recipiente qualquer. Repita esse procedimento até restar uma camada de aproximadamente 5cm no fundo da caixa. Se essa camada estiver muito compactada, sugerimos revirar essa camada para deixá-la mais fofa, com cuidado para não machucar as minhocas.
 </p>
 
-*Obs 1:* 
+ - Obs 1: 
 <p style="text-align: justify;">
 nas primeiras retiradas de húmus, sugerimos devolver as minhocas para o sistema para acelerar a reprodução e multiplicação das mesmas. Depois de alguns meses isso não será mais necessário.
 </p>
 
-*Obs 2:* 
+ - Obs 2: 
 <p style="text-align: justify;">
 Como o composto estará úmido, caso deseje que ele fique mais agradável ao manuseio, deixe-o secar por algumas horas ao sol, ou por alguns dias na sombra antes de utilizá-lo.
 </p>
