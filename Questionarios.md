@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Questionários"
-layout: page
 ---
 
 Questionário 1 - Para responder antes de começar o projeto;

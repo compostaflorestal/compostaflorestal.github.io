@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Dúvidas"
-layout: page
 ---
 
 #Sobre o Projeto
