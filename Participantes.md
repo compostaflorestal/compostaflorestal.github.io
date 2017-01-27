@@ -21,4 +21,5 @@ Idealizador do projeto em Florestal, inspirado pelo projeto Composta São Paulo.
 
 ![image-left]({{ "compostaflorestal.github.io/Participantes/Fernando.jpg" | absolute_url }}){: .align-left} Idealizador do projeto em Florestal, inspirado pelo projeto Composta São Paulo. Acredita que Florestal pode ser uma cidade melhor a partir de projetos como esse!
 
-<img align="left" src="compostaflorestal.github.io/Participantes/Fernando.jpg">Idealizador do projeto em Florestal, inspirado pelo projeto Composta São Paulo. Acredita que Florestal pode ser uma cidade melhor a partir de projetos como esse!
+
+<img src="compostaflorestal.github.io/Participantes/Fernando.jpg" alt="Turin" align="left" height="350" width="350" style="margin:10px">Idealizador do projeto em Florestal, inspirado pelo projeto Composta São Paulo. Acredita que Florestal pode ser uma cidade melhor a partir de projetos como esse!
